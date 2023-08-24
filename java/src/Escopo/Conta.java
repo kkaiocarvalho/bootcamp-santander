@@ -1,4 +1,4 @@
-package Escopo;
+package escopo;
 
 public class Conta {
 	//variavel da classe conta
