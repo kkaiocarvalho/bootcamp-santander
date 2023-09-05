@@ -48,7 +48,7 @@
 
 
         // atribuição
-        var atribuicao = 'diana';
+        var atribuicao = 'kaio';
 
         // comparação
         var comparacao = "0" == 0;
