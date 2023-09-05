@@ -82,7 +82,7 @@
 
         //potenciação
         var potenciacao = 2**10;
-        console.log(potenciacao); */
+        console.log(potenciacao);
 
 
        // operadores relacionais
